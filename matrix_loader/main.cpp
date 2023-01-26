@@ -1,4 +1,4 @@
-// Example program
+// Example program to load a matrix with input from a .txt file
 #include <iostream>
 #include <fstream>
 #include <string>
